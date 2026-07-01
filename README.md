@@ -134,7 +134,7 @@ For the extended theoretical analysis, please also cite:
 
 - Fast Detection of Curved Edges at Low SNR (CVPR 2016)
 - On Detection of Faint Edges in Noisy Images (TPAMI 2019)
-- Deep Faster Detection of Faint Edges in Noisy Images (2018)
+- Multi-scale Processing of Noisy Images using Edge Preservation Losses (ICPR 2020)
 
 ---
 
