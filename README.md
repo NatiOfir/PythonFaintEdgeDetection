@@ -86,7 +86,6 @@ FaintEdgeDetection.ipynb
 |-------|----------------|
 | noisy image | faint edge map |
 
-*(Example images can be added here.)*
 
 ---
 
