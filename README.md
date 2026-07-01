@@ -71,22 +71,11 @@ pip install numpy scipy matplotlib opencv-python scikit-image
 
 Example:
 
-```python
-import cv2
-from faint_edges import detect_edges
 
-image = cv2.imread("example.png", 0)
-
-edges = detect_edges(image)
-
-cv2.imshow("Edges", edges)
-cv2.waitKey(0)
-```
-
-or simply run
+Simply run
 
 ```bash
-python demo.py
+FaintEdgeDetection.ipynb
 ```
 
 ---
